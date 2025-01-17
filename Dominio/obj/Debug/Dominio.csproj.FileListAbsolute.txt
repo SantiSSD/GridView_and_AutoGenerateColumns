@@ -1,0 +1,6 @@
+D:\Curso C# Nivel 3 Maxi\GridView_and_AutoGenerateColumns\Dominio\bin\Debug\Dominio.dll
+D:\Curso C# Nivel 3 Maxi\GridView_and_AutoGenerateColumns\Dominio\bin\Debug\Dominio.pdb
+D:\Curso C# Nivel 3 Maxi\GridView_and_AutoGenerateColumns\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+D:\Curso C# Nivel 3 Maxi\GridView_and_AutoGenerateColumns\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+D:\Curso C# Nivel 3 Maxi\GridView_and_AutoGenerateColumns\Dominio\obj\Debug\Dominio.dll
+D:\Curso C# Nivel 3 Maxi\GridView_and_AutoGenerateColumns\Dominio\obj\Debug\Dominio.pdb
